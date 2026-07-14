@@ -157,27 +157,27 @@ All identified defects were documented with:
 
 ### Test Scenarios
 
-![Test Scenarios](All_Attachments\Test_Scenarios.jpg)
+![Test Scenarios](All_Attachments/Test_Scenarios.jpg)
 
 ### Test Cases
 
 **Test case documentation**
 
-![Test Cases](All_Attachments\Test_Cases.jpg)
+![Test Cases](All_Attachments/Test_Cases.jpg)
 
 **Test case evidence 1**
 
-![Test Case 1](All_Attachments\TC_A_1.jpg)
+![Test Case 1](All_Attachments/TC_A_1.jpg)
 
 ### Bug Report
 
 **Bug report documentation**
 
-![Bug Report](All_Attachments\Bug_Report.jpg)
+![Bug Report](All_Attachments/Bug_Report.jpg)
 
 **Bug report evidence 2**
 
-![Bug Report 2](All_Attachments\TC_A_22.jpg)
+![Bug Report 2](All_Attachments/TC_A_22.jpg)
 
 ---
 
