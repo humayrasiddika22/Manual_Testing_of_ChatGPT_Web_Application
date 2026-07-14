@@ -42,14 +42,14 @@ The project follows the complete Software Testing Life Cycle (STLC), including t
 - AI Response Generation
 - Conversation History
 
-** Non-Functional Testing**
+**Non-Functional Testing**
 - Responsive Testing
 - Accessibility Testing
 - Usability Testing
 - Loading Indicator Verification
 - Performance under Slow Internet
 
-** Exploratory Testing**
+**Exploratory Testing**
 - Session-based exploratory testing for unexpected behaviors and edge cases
 
 ---
@@ -88,7 +88,7 @@ Manual_Testing_of_ChatGPT_Web_Application
 ## Documents Included
 
 | Document | Description |
-|---------|------:|
+|---------|------|
 | Test Plan | Defines testing objectives, scope, approach, environment, risks, entry and exit criteria |
 | Test Scenarios | High-level testing scenarios covering major application features |
 | Test Cases | Detailed test cases with steps, expected results, actual results, status and evidence |
@@ -140,7 +140,7 @@ All identified defects were documented with:
 
 ---
 
-## Test Metrics
+## Project Metrics Summary
 
 | Metric | Count|
 |---------|------:|
@@ -162,17 +162,21 @@ All identified defects were documented with:
 ### Test Cases
 
 **Test case documentation**
+
 ![Test Cases](All_Attachments\Test_Cases.jpg)
 
 **Test case evidence 1**
+
 ![Test Case 1](All_Attachments\TC_A_1.jpg)
 
 ### Bug Report
 
 **Bug report documentation**
+
 ![Bug Report](All_Attachments\Bug_Report.jpg)
 
 **Bug report evidence 2**
+
 ![Bug Report 2](All_Attachments\TC_A_22.jpg)
 
 ---
@@ -225,5 +229,5 @@ LinkedIn: https://linkedin.com/in/humayra-siddika/
 
 ---
 
-#### ⭐ If you found this project helpful, feel free to give it a star!
+### ⭐ If you found this project helpful, feel free to give it a star!
 
